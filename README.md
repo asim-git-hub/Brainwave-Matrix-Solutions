@@ -6,7 +6,7 @@ This repository contains a collection of projects that showcase my skills in **d
 ---
 
 ## 📄 Offer Letter
-- [`Offer Letter.pdf`](Offer Letter.pdf)
+- [`Offer Letter.pdf`]
 
 ---
 
