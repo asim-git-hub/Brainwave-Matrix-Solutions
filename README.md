@@ -6,7 +6,7 @@ This repository contains a collection of projects that showcase my skills in **d
 ---
 
 ## 📄 Offer Letter
-- PDF File: (https://github.com/asim-git-hub/Brainwave-Matrix-Solutions/blob/main/Offer%20Letter.pdf)
+- **PDF File:** (https://github.com/asim-git-hub/Brainwave-Matrix-Solutions/blob/main/Offer%20Letter.pdf)
 
 ---
 
