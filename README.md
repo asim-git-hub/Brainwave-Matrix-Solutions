@@ -74,8 +74,12 @@ The goal of this project is to perform a detailed analysis of Flipkart’s produ
 ## 📌 How to Run
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/flipkart-sales-data-analysis.git
+git clone https://github.com/asim-git-hub/flipkart-sales-data-analysis.git
+2. Open the notebook:
+   jupyter notebook flipkart_sales_analysis.ipynb
+3. Ensure dependencies are installed:
+   pip install pandas numpy matplotlib seaborn wordcloud 
+   
 
 
 ---
