@@ -10,11 +10,11 @@ This repository contains a collection of projects that showcase my skills in **d
 
 ---
 
-## 📊 Task 1: METRO SYSTEMS WORLDWIDE
+## 📊 Task 1: SALE DATA ANALYSIS
 
 ### 🔍 Description
-This project explores metro systems around the globe. Metro systems—also known as subways, U-Bahns, or undergrounds—are electric rapid transit train systems present in many cities.  
-As of **May 2023**, **194 cities across 62 countries** have operational metro systems.
+📌 **TASK OVERVIEW**
+**Goal:** Perform exploratory data analysis on Flipkart sales to derive insights into pricing, ratings, and brand trends.
 
 ### 📁 Folder: `Task_1_Metro_Systems/`
 - Data cleaning and visualization using Python (Pandas, Matplotlib)
