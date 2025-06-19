@@ -10,7 +10,7 @@ This repository contains a collection of projects that showcase my skills in **d
 
 ---
 
-# 📊 Flipkart Sales Data Analysis
+## 📊 Task 1: Flipkart Sales Data Analysis
 
 This project is part of my **Data Science/Data Analytics Internship** – Task 1: Real-world Sales Data Analysis.
 
