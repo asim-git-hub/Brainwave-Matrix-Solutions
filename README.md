@@ -68,19 +68,7 @@ The goal of this project is to perform a detailed analysis of Flipkart’s produ
 - `flipkart_com-ecommerce_sample.csv`: Dataset file (or link to Kaggle)
 - `images/`: Visualizations from EDA
 - `report.pdf`: Optional PDF report for internship submission
-
----
-
-## 📌 How to Run
-
-1. Clone this repository:
-git clone https://github.com/asim-git-hub/flipkart-sales-data-analysis.git
-2. Open the notebook:
-   jupyter notebook flipkart_sales_analysis.ipynb
-3. Ensure dependencies are installed:
-   pip install pandas numpy matplotlib seaborn wordcloud 
-   
-
+ 
 
 ---
 
