@@ -60,5 +60,5 @@ This internship has been a valuable experience in applying data science skills t
 
 ## 📬 Contact Information
 
-- **LinkedIn**: [Komal Singh](https://www.linkedin.com/in/komal-b61580158/)
-- **Email**: komal93singh@gmail.com
+- **LinkedIn**: [Mohammad Asim](linkedin.com/in/mohammad-asim-🇮🇳-85b037b5)
+- **Email**: mohammad.asim795@gmail.com
