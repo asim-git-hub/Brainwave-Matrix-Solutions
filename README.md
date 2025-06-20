@@ -75,10 +75,3 @@ The goal of this project is to perform a detailed analysis of Flipkart’s produ
 
 Thank you for visiting my portfolio and reviewing my internship project submissions!  
 This internship has been a valuable experience in applying data science skills to real-world problems.
-
----
-
-## 📬 Contact Information
-
-- **LinkedIn**: [Mohammad Asim](linkedin.com/in/mohammad-asim-🇮🇳-85b037b5)
-- **Email**: mohammad.asim795@gmail.com
