@@ -1,4 +1,4 @@
-# Data Science/Data Analytics Internship Portfolio at Brainwave_Matrix_Solutions
+# Data Science/Data Analytics Internship at Brainwave_Matrix_Solutions
 
 Welcome to my **Data Science/Data Analytics Internship Portfolio** at **Brainwave_Matrix_Solutions**!  
 This repository contains a collection of projects that showcase my skills in **data analysis**, **machine learning**, and **problem-solving**.
@@ -68,36 +68,6 @@ The goal of this project is to perform a detailed analysis of Flipkart’s produ
 - `flipkart_com-ecommerce_sample.csv`: Dataset file (or link to Kaggle)
 - `images/`: Visualizations from EDA
 - `report.pdf`: Optional PDF report for internship submission
- 
-
----
-
-## 🧠 Task 2: Twitter Sentiment Analysis (NLP)
-
-### 🔍 Description
-Assigned task: Analyze social media data to understand public sentiment toward topics, products, or events.
-
-This project involves **entity-level sentiment analysis** using Twitter data.  
-Each tweet is associated with a sentiment: **Positive** or **Negative**.
-
-- Dataset size: **29,530 unique tweets**
-- Applied NLP techniques including text preprocessing, vectorization, sentiment classification, and visualization.
-
-### 📁 Folder: `Task_2_Twitter_Sentiment_Analysis/`
-- Data preprocessing (stop words removal, tokenization)
-- Sentiment classification using NLP models
-- Time-based sentiment trend visualization
-
----
-
-## 📂 Datasets
-
-All datasets used were sourced from **Kaggle**:
-
-- [Metro Systems Worldwide Dataset](https://www.kaggle.com/)
-- [Twitter Sentiment Analysis Dataset](https://www.kaggle.com/)
-
-> ⚠️ *Please refer to each task folder for detailed notebooks, code, and outputs.*
 
 ---
 
