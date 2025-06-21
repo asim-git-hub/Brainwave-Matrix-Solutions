@@ -16,7 +16,7 @@ This repository contains a collection of projects that showcase my skills in **d
 
 **Internship:** Data Science / Data Analytics Traineeship
 
-**LinkedIn:** [Mohammad Asim 🇮🇳] (linkedin.com/in/mohammad-asim-%F0%9F%87%AE%F0%9F%87%B3-85b037b5/)
+**LinkedIn:** [Mohammad Asim 🇮🇳] (https://www.linkedin.com/in/mohammad-asim-%F0%9F%87%AE%F0%9F%87%B3-85b037b5/)
 
 ---
 
