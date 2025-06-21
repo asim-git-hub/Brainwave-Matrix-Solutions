@@ -12,13 +12,10 @@ This repository contains a collection of projects that showcase my skills in **d
 
 ## 👤 Author
 
-Name: Mohammad Asim
-
-Internship: Data Science / Data Analytics Traineeship
-
-LinkedIn: [Mohammad Asim 🇮🇳] (https://www.linkedin.com/in/mohammad-asim-%F0%9F%87%AE%F0%9F%87%B3-85b037b5/)
-
-Kaggle: [YourProfileHere] (https://www.kaggle.com/asimlearnsfromdata)
+**Name:** Mohammad Asim
+**Internship:** Data Science / Data Analytics Traineeship
+**LinkedIn:** [Mohammad Asim 🇮🇳] (https://www.linkedin.com/in/mohammad-asim-%F0%9F%87%AE%F0%9F%87%B3-85b037b5/)
+**Kaggle:** [YourProfileHere] (https://www.kaggle.com/asimlearnsfromdata)
 
 ---
 
