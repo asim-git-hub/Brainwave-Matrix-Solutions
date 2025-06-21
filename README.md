@@ -22,9 +22,9 @@ This repository contains a collection of projects that showcase my skills in **d
 
 ## 📌 Acknowledgements
 
-- **Dataset from PromptCloud -** Kaggle
+- Dataset from PromptCloud - Kaggle
 
-- Internship Task by [Brainwave_Matrix_Solutions]
+- Internship Task by [Brainwave Matrix Solutions]
 
 ---
 
