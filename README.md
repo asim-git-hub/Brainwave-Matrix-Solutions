@@ -14,3 +14,20 @@ This repository contains a collection of projects that showcase my skills in **d
 
 Thank you for visiting my portfolio and reviewing my internship project submissions!  
 This internship has been a valuable experience in applying data science skills to real-world problems.
+
+---
+
+## 👤 Author
+
+Name: Mohammad Asim
+
+Internship: Data Science / Data Analytics Traineeship
+
+LinkedIn: [YourProfileHere] (linkedin.com/in/mohammad-asim-🇮🇳-85b037b5)
+
+Kaggle: [YourProfileHere] (https://www.kaggle.com/asimlearnsfromdata)
+
+📌 Acknowledgements
+Dataset from PromptCloud - Kaggle (https://www.kaggle.com/datasets/PromptCloudHQ/flipkart-products)
+
+Internship Task by [Brainwave_Matrix_Solutions]
