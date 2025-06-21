@@ -1,15 +1,15 @@
 # 📊 Flipkart Sales Data Analysis
 
 ## 🧩 Problem Statement
-E-commerce platforms list thousands of products with dynamic pricing and ratings.  
-The challenge lies in understanding trends in pricing, discounts, and customer feedback.  
-This project aims to analyze Flipkart’s mobile phone listings to derive actionable business insights.
+- E-commerce platforms list thousands of products with dynamic pricing and ratings.  
+- The challenge lies in understanding trends in pricing, discounts, and customer feedback.  
+- This project aims to analyze Flipkart’s mobile phone listings to derive actionable business insights.
 
 ---
 
 ## 💡 Proposed Solution
-Perform Exploratory Data Analysis (EDA) on Flipkart’s mobile phone dataset from Kaggle.  
-Use Python libraries to visualize pricing, brand performance, discount patterns, and customer satisfaction through product ratings.
+- Perform Exploratory Data Analysis (EDA) on Flipkart’s mobile phone dataset from Kaggle.  
+- Use Python libraries to visualize pricing, brand performance, discount patterns, and customer satisfaction through product ratings.
 
 ---
 
