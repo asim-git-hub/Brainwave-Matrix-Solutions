@@ -12,19 +12,19 @@ This repository contains a collection of projects that showcase my skills in **d
 
 ## 👤 Author
 
-**Name:** Mohammad Asim
+- **Name:** Mohammad Asim
 
-**Internship:** Data Science / Data Analytics Traineeship
+- **Internship:** Data Science / Data Analytics Traineeship
 
-**LinkedIn:** [Mohammad Asim 🇮🇳] (https://www.linkedin.com/in/mohammad-asim-%F0%9F%87%AE%F0%9F%87%B3-85b037b5/)
+- **LinkedIn:** [Mohammad Asim 🇮🇳] (https://www.linkedin.com/in/mohammad-asim-%F0%9F%87%AE%F0%9F%87%B3-85b037b5/)
 
 ---
 
 ## 📌 Acknowledgements
 
-**Dataset from PromptCloud -** Kaggle
+- **Dataset from PromptCloud -** Kaggle
 
-Internship Task by **[Brainwave_Matrix_Solutions]**
+- Internship Task by [Brainwave_Matrix_Solutions]
 
 ---
 
