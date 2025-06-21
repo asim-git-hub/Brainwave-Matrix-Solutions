@@ -50,12 +50,3 @@ The goal of this project is to perform a detailed analysis of Flipkart’s produ
 - 💸 There's a strong correlation between retail and discounted prices.
 
 ---
-
-## 📂 File Structure
-
-- `flipkart_sales_analysis.ipynb`: Complete analysis notebook
-- `flipkart_com-ecommerce_sample.csv`: Dataset file (or link to Kaggle)
-- `images/`: Visualizations from EDA
-- `report.pdf`: Optional PDF report for internship submission
-
----
