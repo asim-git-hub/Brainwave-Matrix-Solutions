@@ -53,8 +53,8 @@ This repository contains a collection of real-world projects showcasing my skill
 - Confusion Matrix & Classification Report  
 - WordCloud & Time-Series Trend Plots  
 
-📂 [View Task 2 Folder ➜](./Task-2-Sentiment-Analysis-Airlines)  
-📄 [Task 2 README Report](./Task-2-Sentiment-Analysis-Airlines/README.md)
+📂 [View Task 2 Folder ➜](https://github.com/asim-git-hub/Brainwave-Matrix-Solutions/tree/main/Task%202)  
+📄 [Task 2 README Report](https://github.com/asim-git-hub/Brainwave-Matrix-Solutions/blob/main/Task%202/Repord.md)
 
 ---
 
