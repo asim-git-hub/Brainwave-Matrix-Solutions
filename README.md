@@ -37,8 +37,8 @@ This repository contains a collection of real-world projects showcasing my skill
 - WordCloud of product titles  
 - Top discounted products  
 
-📂 [View Task 1 Folder ➜](./Task-1-Flipkart-Sales-Analysis)  
-📄 [Task 1 README Report](./Task-1-Flipkart-Sales-Analysis/README.md)
+📂 [View Task 1 Folder ➜]([./Task-1-Flipkart-Sales-Analysis](https://github.com/asim-git-hub/Brainwave-Matrix-Solutions/tree/main/Task%201))  
+📄 [Task 1 README Report]([./Task-1-Flipkart-Sales-Analysis/README.md](https://github.com/asim-git-hub/Brainwave-Matrix-Solutions/blob/main/Task%201/Report.md))
 
 ---
 
